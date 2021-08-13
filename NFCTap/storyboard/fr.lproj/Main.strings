@@ -1,0 +1,216 @@
+
+/* Class = "UILabel"; text = "Command Result : "; ObjectID = "0NY-Rg-XuK"; */
+"0NY-Rg-XuK.text" = "Command Result : ";
+
+/* Class = "UILabel"; text = "Write Buffer"; ObjectID = "0uK-Mb-ljT"; */
+"0uK-Mb-ljT.text" = "Write Buffer";
+
+/* Class = "UINavigationItem"; title = "ST25DV Fast Transfer Mode"; ObjectID = "1wi-3a-yDQ"; */
+"1wi-3a-yDQ.title" = "ST25DV Fast Transfer Mode";
+
+/* Class = "UILabel"; text = "Auto Run NDEF Native Application"; ObjectID = "2go-IO-ec8"; */
+"2go-IO-ec8.text" = "Auto Run NDEF Native Application";
+
+/* Class = "UITextField"; text = "64"; ObjectID = "2oD-n5-mT9"; */
+"2oD-n5-mT9.text" = "64";
+
+/* Class = "UITextField"; text = "0"; ObjectID = "33p-4A-bfE"; */
+"33p-4A-bfE.text" = "0";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "3ZV-7H-LUm"; */
+"3ZV-7H-LUm.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "25%"; ObjectID = "4I7-6o-fhZ"; */
+"4I7-6o-fhZ.normalTitle" = "25%";
+
+/* Class = "UITableViewController"; title = "AboutViewController"; ObjectID = "5oQ-X7-bi4"; */
+"5oQ-X7-bi4.title" = "AboutViewController";
+
+/* Class = "UITableViewSection"; headerTitle = "NFC Tap Version 2.6"; ObjectID = "7A8-4u-exU"; */
+"7A8-4u-exU.headerTitle" = "NFC Tap Version 3.2";
+
+/* Class = "UILabel"; text = "Block Address"; ObjectID = "9PB-bh-QNn"; */
+"9PB-bh-QNn.text" = "Block Address";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "9fW-k2-HYG"; */
+"9fW-k2-HYG.text" = "Detail";
+
+/* Class = "UITableViewSection"; headerTitle = "App Review"; ObjectID = "9zY-dU-LU9"; */
+"9zY-dU-LU9.headerTitle" = "App Review";
+
+/* Class = "UILabel"; text = "Write/Read MailBox Buffer : "; ObjectID = "AEq-LC-t7x"; */
+"AEq-LC-t7x.text" = "Write/Read MailBox Buffer : ";
+
+/* Class = "UILabel"; text = "Read multiple NFC tags"; ObjectID = "BWJ-Hq-eC8"; */
+"BWJ-Hq-eC8.text" = "Read multiple NFC tags";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "BZp-eJ-tif"; */
+"BZp-eJ-tif.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Review NFCTap"; ObjectID = "CYs-Vf-eBZ"; */
+"CYs-Vf-eBZ.text" = "Review NFCTap";
+
+/* Class = "UILabel"; text = "Multi Tag "; ObjectID = "H4u-5H-Km3"; */
+"H4u-5H-Km3.text" = "Multi Tag ";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "HRW-4I-i5v"; */
+"HRW-4I-i5v.title" = "About";
+
+/* Class = "UIButton"; normalTitle = "75%"; ObjectID = "JTa-F2-uJW"; */
+"JTa-F2-uJW.normalTitle" = "75%";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "JU4-5E-TN0"; */
+"JU4-5E-TN0.title" = "Settings";
+
+/* Class = "UITextField"; text = "2"; ObjectID = "K3Z-cw-S0B"; */
+"K3Z-cw-S0B.text" = "2";
+
+/* Class = "UINavigationItem"; title = "Write Memory"; ObjectID = "Kfu-3W-w3N"; */
+"Kfu-3W-w3N.title" = "Write Memory";
+
+/* Class = "UIButton"; normalTitle = "Read Tag"; ObjectID = "KlL-se-8Vg"; */
+"KlL-se-8Vg.normalTitle" = "Read Tag";
+
+/* Class = "UIButton"; normalTitle = "FTM - Stopwatch"; ObjectID = "L3R-Qh-O8h"; */
+"L3R-Qh-O8h.normalTitle" = "FTM - Stopwatch";
+
+/* Class = "UILabel"; text = "PWM1 Duty Cycle : "; ObjectID = "L4b-B1-Wtk"; */
+"L4b-B1-Wtk.text" = "PWM1 Duty Cycle : ";
+
+/* Class = "UINavigationItem"; title = "Read Memory"; ObjectID = "LVF-a9-1Wz"; */
+"LVF-a9-1Wz.title" = "Read Memory";
+
+/* Class = "UIButton"; normalTitle = "50%"; ObjectID = "N9f-3D-YIM"; */
+"N9f-3D-YIM.normalTitle" = "50%";
+
+/* Class = "UITabBarItem"; title = "About"; ObjectID = "QQX-hd-FEE"; */
+"QQX-hd-FEE.title" = "About";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "UFQ-lQ-vSw"; */
+"UFQ-lQ-vSw.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "25%"; ObjectID = "VU5-t8-Jn0"; */
+"VU5-t8-Jn0.normalTitle" = "25%";
+
+/* Class = "UIButton"; normalTitle = "FTM - Picture Transfer"; ObjectID = "VcK-rt-QpP"; */
+"VcK-rt-QpP.normalTitle" = "FTM - Picture Transfer";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "VmE-CD-0nO"; */
+"VmE-CD-0nO.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "VxK-IT-MZs"; */
+"VxK-IT-MZs.normalTitle" = "Start";
+
+/* Class = "UINavigationItem"; title = "NFC Tap"; ObjectID = "Xpw-EL-Bur"; */
+"Xpw-EL-Bur.title" = "NFC Tap";
+
+/* Class = "UIButton"; normalTitle = "Write"; ObjectID = "Y88-wV-yQQ"; */
+"Y88-wV-yQQ.normalTitle" = "Write";
+
+/* Class = "UILabel"; text = "Read Buffer : "; ObjectID = "YaN-o0-V6C"; */
+"YaN-o0-V6C.text" = "Read Buffer : ";
+
+/* Class = "UINavigationItem"; title = "Memory"; ObjectID = "Ybc-TN-UXe"; */
+"Ybc-TN-UXe.title" = "Memory";
+
+/* Class = "UITableViewSection"; headerTitle = "NDEF Actions"; ObjectID = "Ykd-s5-0SJ"; */
+"Ykd-s5-0SJ.headerTitle" = "NDEF Actions";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "aEc-Z8-izP"; */
+"aEc-Z8-izP.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Reading Mode"; ObjectID = "aJ6-kR-lPs"; */
+"aJ6-kR-lPs.text" = "Reading Mode";
+
+/* Class = "UITextField"; text = "12345678"; ObjectID = "afn-Kq-m51"; */
+"afn-Kq-m51.text" = "12345678";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "apZ-SH-rLi"; */
+"apZ-SH-rLi.text" = "Start";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "c16-4V-GqM"; */
+"c16-4V-GqM.title" = "Settings";
+
+/* Class = "UILabel"; text = "Writing Mode"; ObjectID = "cqg-w9-ckf"; */
+"cqg-w9-ckf.text" = "Writing Mode";
+
+/* Class = "UITextView"; text = "http://www.st.com/st25"; ObjectID = "dH9-42-JiB"; */
+"dH9-42-JiB.text" = "http://www.st.com/st25";
+
+/* Class = "UINavigationItem"; title = "FTM - Data Transfer"; ObjectID = "dzd-3E-Rvl"; */
+"dzd-3E-Rvl.title" = "FTM - Data Transfer";
+
+/* Class = "UINavigationItem"; title = "ST25Pwm configuration"; ObjectID = "ese-ru-eH2"; */
+"ese-ru-eH2.title" = "ST25Pwm configuration";
+
+/* Class = "UILabel"; text = "Number of items"; ObjectID = "f50-IL-9xO"; */
+"f50-IL-9xO.text" = "Number of items";
+
+/* Class = "UIViewController"; title = "FTM - Data Transfer"; ObjectID = "gS9-v4-rfn"; */
+"gS9-v4-rfn.title" = "FTM - Data Transfer";
+
+/* Class = "UILabel"; text = "PWM Frequency : 500 Hz"; ObjectID = "gXz-LZ-bMQ"; */
+"gXz-LZ-bMQ.text" = "PWM Frequency : 500 Hz";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "gtd-JB-TMd"; */
+"gtd-JB-TMd.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "100%"; ObjectID = "h7r-s3-qGq"; */
+"h7r-s3-qGq.normalTitle" = "100%";
+
+/* Class = "UIButton"; normalTitle = "Read"; ObjectID = "hVZ-PL-f2o"; */
+"hVZ-PL-f2o.normalTitle" = "Read";
+
+/* Class = "UINavigationItem"; title = "ISO15693 / NFC Type5"; ObjectID = "hiY-mX-6TU"; */
+"hiY-mX-6TU.title" = "ISO15693 / NFC Type5";
+
+/* Class = "UILabel"; text = "Run iOS Application according to NDEF Type"; ObjectID = "iPe-hf-CDX"; */
+"iPe-hf-CDX.text" = "Run iOS Application according to NDEF Type";
+
+/* Class = "UILabel"; text = "Block Data"; ObjectID = "it8-mo-dlN"; */
+"it8-mo-dlN.text" = "Block Data";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "jNA-Ga-WxQ"; */
+"jNA-Ga-WxQ.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "75%"; ObjectID = "kEC-ee-UGq"; */
+"kEC-ee-UGq.normalTitle" = "75%";
+
+/* Class = "UITableViewSection"; headerTitle = "About ST"; ObjectID = "kKm-Jl-TFb"; */
+"kKm-Jl-TFb.headerTitle" = "About ST";
+
+/* Class = "UITableViewSection"; headerTitle = "Basic Settings"; ObjectID = "kav-OM-pSc"; */
+"kav-OM-pSc.headerTitle" = "Basic Settings";
+
+/* Class = "UIButton"; normalTitle = "100%"; ObjectID = "pr8-Yw-DEZ"; */
+"pr8-Yw-DEZ.normalTitle" = "100%";
+
+/* Class = "UIViewController"; title = "ST25DV-PWM Demo"; ObjectID = "sLA-7v-PAZ"; */
+"sLA-7v-PAZ.title" = "ST25DV-PWM Demo";
+
+/* Class = "UIButton"; normalTitle = "Read NDEF "; ObjectID = "sNO-U3-rPJ"; */
+"sNO-U3-rPJ.normalTitle" = "Read NDEF ";
+
+/* Class = "UILabel"; text = "PWM2 Duty Cycle : "; ObjectID = "tWF-ZI-0bG"; */
+"tWF-ZI-0bG.text" = "PWM2 Duty Cycle : ";
+
+/* Class = "UILabel"; text = "Tag info :"; ObjectID = "uEr-iI-Z8W"; */
+"uEr-iI-Z8W.text" = "Tag info :";
+
+/* Class = "UIButton"; normalTitle = "FTM - Data Transfer"; ObjectID = "vMN-4d-PyK"; */
+"vMN-4d-PyK.normalTitle" = "FTM - Data Transfer";
+
+/* Class = "UILabel"; text = "Tag Name and Tag Type"; ObjectID = "x14-gF-1TM"; */
+"x14-gF-1TM.text" = "Tag Name and Tag Type";
+
+/* Class = "UITableViewSection"; headerTitle = "Main Features"; ObjectID = "x2e-fR-WTI"; */
+"x2e-fR-WTI.headerTitle" = "Main Features";
+
+/* Class = "UIButton"; normalTitle = "50%"; ObjectID = "xu7-8d-oOM"; */
+"xu7-8d-oOM.normalTitle" = "50%";
+
+/* Class = "UIButton"; normalTitle = "FTM - Firmware Update"; ObjectID = "zqQ-ib-QQQ"; */
+"zqQ-ib-QQQ.normalTitle" = "FTM - Firmware Update";
+
+/* Class = "UIButton"; normalTitle = "MailBox Management"; ObjectID = "zsK-Yd-Mup"; */
+"zsK-Yd-Mup.normalTitle" = "MailBox Management";
